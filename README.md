@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Fabricio Escalante aka. @ShortEmperor
-- 👀 I’m interested in Python and Data-Science
-- 🌱 I’m currently learning as much as I can
-- I am studying telematics at the National Polytechnic Institute
-- contact me here: https://www.linkedin.com/in/fabricio-escalante-256b171aa/
+Hey, I’m Fabricio Escalante aka. @ShortEmperor, I am interested in Python, Data Science, and anything tech related.
+Currently working as a Cloud Consultant.
+
+I try to learn about everything and as much as I can!
+
+Contact me here: https://www.linkedin.com/in/fabricio-escalante-256b171aa/
 
 <!---
 ShortEmperor/ShortEmperor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
